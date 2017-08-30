@@ -1,2 +1,2 @@
-# test.github.io
+# test
 Test new site
